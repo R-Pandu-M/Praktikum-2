@@ -1,0 +1,35 @@
+.body{
+    background-color: #FFFDD3;
+}
+
+.links{ 
+    padding: 5px;
+    margin: 5px;
+    text-align: center; 
+    width: auto;
+    cursor: pointer;
+}
+.links a{
+    display: inline-block; 
+    margin: 3px 0px;
+    padding: 4px 10px;
+    text-align: center; 
+    color: #F5EAB6; 
+    text-decoration: none;
+    font-family: 'Century Gothic';
+}
+.links a:link{
+    color: #F5EAB6;
+}
+.links a:visited{
+    color: #F5EAB6;
+}
+.links a:hover{
+    display: inline-block; 
+    margin: 3px 0px;
+    padding: 5px 9px 3px 11px;
+    text-align: center; 
+    color: #F5EAB6; 
+    text-decoration: none;
+    font-family: 'Century Gothic';
+}
